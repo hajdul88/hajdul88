@@ -44,27 +44,7 @@
 
 ---
 
-### 04 &nbsp;/&nbsp; Activity
-
-<sub>Aggregated across every repo I contribute to, including org work — refreshed daily.</sub>
-
-<div align="center">
-
-<img height="200" src="./profile-summary-card-output/nightowl/3-stats.svg" alt="Stats" />
-&nbsp;
-<img height="200" src="./profile-summary-card-output/nightowl/2-most-commit-language.svg" alt="Most-used languages by commit volume" />
-
-</div>
-
-<div align="center">
-
-<img height="200" src="./profile-summary-card-output/nightowl/4-productive-time.svg" alt="Productive hours" />
-
-</div>
-
----
-
-### 05 &nbsp;/&nbsp; Recognition
+### 04 &nbsp;/&nbsp; Recognition
 
 - **1st place** — ACM Programming Contest
 - **Special Award** — SedCup Programming Contest 
