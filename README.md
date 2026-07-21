@@ -16,7 +16,7 @@
 
 <div align="center">
 
-**16.9k ★** on open source &nbsp;·&nbsp; **10+ years** building ML in production &nbsp;·&nbsp; **8+ years** in academic research
+**28.9k ★** on open source &nbsp;·&nbsp; **10+ years** building ML in production &nbsp;·&nbsp; **8+ years** in academic research
 
 </div>
 
@@ -33,7 +33,7 @@
 
 |                                                                             |                                                                                                                                                                                                                           |
 |-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **[cognee](https://github.com/topoteretes/cognee)** &nbsp;·&nbsp; 2024–2026 | Built the spine of the platform: retrieval and ontology reasoning, the internal Rust orchestrator, distributed pipeline, agent tracing, and the evaluation framework + some of the integrations. **16.9k ★ · 1.8k forks.** |
+| **[cognee](https://github.com/topoteretes/cognee)** &nbsp;·&nbsp; 2024–2026 | Built the spine of the platform: retrieval and ontology reasoning, the internal Rust orchestrator, distributed pipeline, agent tracing, and the evaluation framework + some of the integrations. **28.9k ★ · 2.8k forks.** |
 | **Egis Pharmaceuticals** &nbsp;·&nbsp; 2021–2024                            | Owned the advanced-analytics roadmap end to end. Shipped pricing-strategy optimization model, sales forecasting, field-rep routing, and the behavioural analytics behind a patient-facing mobile health product.          |
 | **FRISK IT Solution** &nbsp;·&nbsp; 2021–2023                               | Technical lead during a build-out phase. Drove the fraud-detection R&D track, scoped and supervised subcontracted delivery, and ran technical due diligence in front of industrial buyers.                   |
 | **Andego** &nbsp;·&nbsp; 2017–2019                                          | Designed and built the detection core of a fraud system that went into production at a major Hungarian financial institution — modeling, feature engineering, and the handoff to ops.                                     |
